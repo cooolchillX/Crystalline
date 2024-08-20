@@ -61,7 +61,3 @@ Update Log
   My Summer Car
     7/29/2024
     Initial Release
-
-  The Break In
-    8/19/2024
-    		Added Is Mouse Locked
